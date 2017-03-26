@@ -1,2 +1,2 @@
 # Images
-Code Image or others
+Output Image or others
